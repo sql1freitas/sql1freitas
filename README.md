@@ -9,10 +9,10 @@ Working at moment with Python 🐍
 
 ## 🚀 Featured Projects
 
-- 🔧 [app_cadastro_baiao](https://github.com/sql1freitas/app_cadastro_baiao) – Django API for employee registration.
-- 💼 Internal system for HR and supervisors.
-
 - 🔧 [JobManager](https://github.com/sql1freitas/JobManager) – Django API to track job applications and manage work opportunities.
+
+- 🔧 [app_cadastro_baiao](https://github.com/sql1freitas/app_cadastro_baiao) – Django API for employee registration.
+- 💼 Internal system for HR and supervisors. (Private at moment)
 
 ---
 
