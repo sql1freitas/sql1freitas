@@ -1,8 +1,10 @@
 # 👋 Hey there! I'm Matheus
 
-I'm a passionate Python 🐍 and Django ⚙️ developer, building APIs and internal systems that solve real-world problems.  
+I'm a passionate developer, building APIs and internal systems that solve real-world problems.  
 I love automation, and keeping things simple.
 
+---
+Working at moment with Python 🐍
 ---
 
 ## 🚀 Featured Projects
