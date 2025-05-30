@@ -29,7 +29,7 @@ Working at moment with Python 🐍
 
 ## 🙋‍♂️ About Me
 
-- 🐧 Linux fan (I use Arch btw)
+- 🐧 Linux fan (I use Arch btw ☝🤓)
 - 💪 Gym rat
 - 🐶 Dog person
 - 👶 Dad of Theodoro 🍼
