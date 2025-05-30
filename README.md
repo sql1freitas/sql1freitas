@@ -10,7 +10,7 @@ Working at moment with Python 🐍
 ## 🚀 Featured Projects
 
 - 🔧 [JobManager](https://github.com/sql1freitas/JobManager) – Django API to track job applications and manage work opportunities.
-- 
+  
 - 💼 Django API for employee registration. Internal system for HR and supervisors. (Private at moment).
 
 ---
