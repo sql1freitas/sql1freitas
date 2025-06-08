@@ -43,4 +43,4 @@ Working at moment with Python 🐍
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-java-dev/)
 ---
 
-> _"Code. Sleep. Repeat. And sometimes lift weights."_ 🏋️‍♂️
+> _"Code. Drink Coffee. Sleep. Repeat."_
