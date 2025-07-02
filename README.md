@@ -15,16 +15,12 @@ Sou um desenvolvedor que gosta de resolver o problema dos outros :)
 
 ## 🚀 Projetos em Destaque
 
+- 🍱 [Alimetria](https://github.com/sql1freitas/Alimetria) - Sistema feito com django para registro de alimentação diária dos funcionários.
 - 🔧 [JobManager](https://github.com/sql1freitas/JobManager) – API em Django para rastrear candidaturas e gerenciar oportunidades de trabalho.  
 - 💼 API Django para cadastro de funcionários. Sistema interno para RH e supervisores. *(Privado no momento)*
 
 ---
 
-## 🛠️ Tecnologias que eu uso
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sql1freitas&layout=compact&theme=radical)
-
----
 
 ## 📊 Estatísticas do GitHub
 
