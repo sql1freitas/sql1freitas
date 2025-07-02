@@ -13,7 +13,7 @@ Sou um desenvolvedor que gosta de resolver o problema dos outros :)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Produção
 
 - 🍱 [Alimetria](https://github.com/sql1freitas/Alimetria) - Sistema feito com django para registro de alimentação diária dos funcionários.
 - 🔧 [JobManager](https://github.com/sql1freitas/JobManager) – API em Django para rastrear candidaturas e gerenciar oportunidades de trabalho.  
