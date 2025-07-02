@@ -1,45 +1,52 @@
-# 👋 Hey there! I'm Matheus
 
-I'm a passionate developer, building APIs and internal systems that solve real-world problems.  
-I love automation, and keeping things simple.
+# 👋 Olá! Eu sou o Matheus
 
----
-Working at moment with Python 🐍
----
-
-## 🚀 Featured Projects
-
-- 🔧 [JobManager](https://github.com/sql1freitas/JobManager) – Django API to track job applications and manage work opportunities.
-  
-- 💼 Django API for employee registration. Internal system for HR and supervisors. (Private at moment).
+Sou um desenvolvedor apaixonado, construindo APIs e sistemas internos que resolvem **problemas do mundo real**.  
+Amo automação e manter tudo o mais **simples** possível.
 
 ---
 
-## 🛠️ Technologies I Use
+🎯 **Atualmente trabalhando com**:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 🔧 [JobManager](https://github.com/sql1freitas/JobManager) – API em Django para rastrear candidaturas e gerenciar oportunidades de trabalho.  
+- 💼 API Django para cadastro de funcionários. Sistema interno para RH e supervisores. *(Privado no momento)*
+
+---
+
+## 🛠️ Tecnologias que eu uso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sql1freitas&layout=compact&theme=radical)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sql1freitas&show_icons=true&theme=radical&count_private=true)
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Sobre mim
 
-- 🐧 Linux fan (I use Arch btw ☝🤓)
-- 🐶 Dog person
-- 👶 Dad of Theodoro 🍼
-- ☕ Coffee keeps me alive
+- 🐧 Fã de Linux (uso Arch, aliás ☝🤓)  
+- 🐶 Amante de cachorros  
+- 👶 Pai do Theodoro 🍼  
+- ☕ Sobrevivente à base de café  
 
 ---
 
-## 📬 Connect with Me
+## 📬 Contato
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:matheus.fvf.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-java-dev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-java-dev/)
+
 ---
 
-> _"Code. Drink Coffee. Sleep. Repeat."_
+> _"Codar. Tomar café. Dormir. Repetir."_ ☕💻
