@@ -1,8 +1,7 @@
 
 # 👋 Olá! Eu sou o Matheus
 
-Sou um desenvolvedor apaixonado, construindo APIs e sistemas internos que resolvem **problemas do mundo real**.  
-Amo automação e manter tudo o mais **simples** possível.
+Sou um desenvolvedor que gosta de resolver o problema dos outros :)
 
 ---
 
@@ -35,7 +34,7 @@ Amo automação e manter tudo o mais **simples** possível.
 
 ## 🙋‍♂️ Sobre mim
 
-- 🐧 Fã de Linux (uso Arch, aliás ☝🤓)  
+- 🐧 Fã de Linux (I use arch btw ☝🤓)  
 - 🐶 Amante de cachorros  
 - 👶 Pai do Theodoro 🍼  
 - ☕ Sobrevivente à base de café  
